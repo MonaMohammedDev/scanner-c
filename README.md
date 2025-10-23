@@ -11,7 +11,7 @@ A Python-based lexical analyzer (scanner) for C programming language that tokeni
 - Simple command-line interface
   
 ## Example Input:
--int main() {
+int main() {
     int x = 5;
     return 0;
 }
