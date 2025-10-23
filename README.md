@@ -9,18 +9,14 @@ A Python-based lexical analyzer (scanner) for C programming language that tokeni
 - Identifies keywords, identifiers, numbers, operators, and special characters
 - Handles single-line and multi-line comments
 - Simple command-line interface
-
-## Usage
-```bash
-python code.py
-
-Example Input:
+  
+##Example Input:
 int main() {
     int x = 5;
     return 0;
 }
 
-Supported Tokens
+##Supported Tokens
 
 · KEYWORD: int, main, if, else, return, for, while
 · IDENTIFIER: variable and function names
@@ -30,3 +26,6 @@ Supported Tokens
 · COMMENTS: // and /* */
 
 
+## Usage
+```bash
+python code.py
