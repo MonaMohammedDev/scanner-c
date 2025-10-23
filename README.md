@@ -29,5 +29,4 @@ Supported Tokens
 · SPECIAL CHARACTER: (){};, etc.
 · COMMENTS: // and /* */
 
-<SPECIAL CHARACTER, ;>
-<SPECIAL CHARACTER, }>
+
